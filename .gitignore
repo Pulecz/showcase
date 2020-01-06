@@ -1,1 +1,3 @@
+__pycache__/
 our_secrets.py
+*.db
